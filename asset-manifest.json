@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/watersystem/static/css/main.96f44324.css",
+    "main.js": "/watersystem/static/js/main.710aed85.js",
+    "static/media/fa-solid-900.ttf": "/watersystem/static/media/fa-solid-900.42c745469c29afbc4e98.ttf",
+    "static/media/herobackground.jpg": "/watersystem/static/media/herobackground.8b35b9d34382e3f1f3b8.jpg",
+    "static/media/fa-brands-400.ttf": "/watersystem/static/media/fa-brands-400.4e755efff9e2ad0cc4ce.ttf",
+    "static/media/fa-solid-900.woff2": "/watersystem/static/media/fa-solid-900.a4453cdb966b98ed8801.woff2",
+    "static/media/loginImage.jpg": "/watersystem/static/media/loginImage.459b99e6d771d28a3d0e.jpg",
+    "static/media/fa-brands-400.woff2": "/watersystem/static/media/fa-brands-400.265683c169acc4399fe4.woff2",
+    "static/media/fa-regular-400.ttf": "/watersystem/static/media/fa-regular-400.fca1ba8756e66eb24cc3.ttf",
+    "static/media/fa-regular-400.woff2": "/watersystem/static/media/fa-regular-400.1bb9d91b4e86ea5158e6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/watersystem/static/media/fa-v4compatibility.c230767394a35143968f.ttf",
+    "static/media/fa-v4compatibility.woff2": "/watersystem/static/media/fa-v4compatibility.eac4dbb6d61d3a73befd.woff2",
+    "index.html": "/watersystem/index.html",
+    "main.96f44324.css.map": "/watersystem/static/css/main.96f44324.css.map",
+    "main.710aed85.js.map": "/watersystem/static/js/main.710aed85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f44324.css",
+    "static/js/main.710aed85.js"
+  ]
+}
